@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/memory_layout.c
+stdio.h
+-
+stdlib.h
+-
+

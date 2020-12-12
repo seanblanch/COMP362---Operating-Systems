@@ -1,0 +1,4 @@
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/CMakeFiles/process_creation.dir
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/CMakeFiles/memory_layout.dir

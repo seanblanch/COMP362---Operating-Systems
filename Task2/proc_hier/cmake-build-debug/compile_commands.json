@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier/cmake-build-debug",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/iam.dir/iam.c.o   -c /home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier/iam.c",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier/iam.c"
+},
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier/cmake-build-debug",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/proc_hier.dir/proc_hier.c.o   -c /home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier/proc_hier.c",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier/proc_hier.c"
+}
+]

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/process_creation.c
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+wait.h
+-
+sys/types.h
+-
+

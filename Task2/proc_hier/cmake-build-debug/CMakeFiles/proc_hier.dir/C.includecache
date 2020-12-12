@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier/proc_hier.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+errno.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+

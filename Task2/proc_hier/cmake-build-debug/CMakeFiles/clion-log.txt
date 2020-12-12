@@ -1,0 +1,4 @@
+/home/seanblanchard/ProgramFiles/CLion-2020.2.1/clion-2020.2.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier/cmake-build-debug

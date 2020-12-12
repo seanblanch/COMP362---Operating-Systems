@@ -1,0 +1,26 @@
+Script started on 2020-09-15 14:59:05-07:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="132" LINES="32"]
+seanblanchard@pop-os:~/Desktop$ cd comp362/BlanchardSeanLab03/Task1/cmake-build-debug
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug$ cmake ..
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug$ make
+[ 50%] Built target process_creation
+[100%] Built target memory_layout
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug$ ./process_creation
+I am the parent 43291
+Child Complete
+I am the child 43292
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug$ CMakeCache.txt	CMakeFiles  cmake_install.cmake  Makefile  memory_layout  memory_layout.cbp  process_creation  process_creation.cbp
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug$ cmake ..
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug$ make
+[ 50%] Built target process_creation
+[100%] Built target memory_layout
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug$ ./memory_layout
+Hello, World!seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug$ exit
+exit
+
+Script done on 2020-09-15 15:00:47-07:00 [COMMAND_EXIT_CODE="0"]

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="process_creation"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="process_creation">
+				<Option output="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/process_creation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 process_creation"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="process_creation/fast">
+				<Option output="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/process_creation" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 process_creation/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="memory_layout">
+				<Option output="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/memory_layout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 memory_layout"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="memory_layout/fast">
+				<Option output="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/memory_layout" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 memory_layout/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/memory_layout.c">
+			<Option target="memory_layout"/>
+		</Unit>
+		<Unit filename="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/process_creation.c">
+			<Option target="process_creation"/>
+		</Unit>
+		<Unit filename="/home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,19 @@
+Script started on 2020-09-15 15:04:48-07:00 [TERM="xterm-256color" TTY="/dev/pts/6" COLUMNS="151" LINES="31"]
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier[00m$  ps -elf | grep "proc_hier\|iam"[1P
+0 R seanbla+   18199    2405 90  80   0 -   622 -      11:32 ?        03:14:54 /home/seanblanchard/Desktop/comp362/BlanchardSeanLab03/Task2/[01;31m[Kproc_hier[m[K/cmake-build-debug/bin/[01;31m[Kiam[m[K
+4 S root       19306   12001  0  80   0 -  5975 -      11:43 pts/2    00:00:00 sudo gdb -p 18609 [01;31m[Kiam[m[K
+4 S root       19307   19306  0  80   0 - 17035 -      11:43 pts/2    00:00:00 gdb -p 18609 [01;31m[Kiam[m[K
+4 S root       19352   12008  0  80   0 -  5973 -      11:44 pts/3    00:00:00 sudo gdb -p 18608 [01;31m[Kiam[m[K
+4 S root       19353   19352  0  80   0 - 17035 -      11:44 pts/3    00:00:00 gdb -p 18608 [01;31m[Kiam[m[K
+0 R seanbla+   43890   43667 99  80   0 -   622 -      15:07 pts/5    00:00:36 [01;31m[Kiam[m[K 1.2
+0 R seanbla+   43891   43890 99  80   0 -   622 -      15:07 pts/5    00:00:36 [01;31m[Kiam[m[K 1.1
+0 R seanbla+   43892   43890 99  80   0 -   622 -      15:07 pts/5    00:00:35 [01;31m[Kiam[m[K 1.2.1
+0 R seanbla+   43893   43890 99  80   0 -   622 -      15:07 pts/5    00:00:36 [01;31m[Kiam[m[K 1.2.2
+0 R seanbla+   43894   43891 98  80   0 -   622 -      15:07 pts/5    00:00:35 [01;31m[Kiam[m[K 1.1.1
+0 R seanbla+   43895   43891 99  80   0 -   622 -      15:07 pts/5    00:00:36 [01;31m[Kiam[m[K 1.1.2
+0 S seanbla+   43918   43714  0  80   0 -  4699 pipe_w 15:07 pts/11   00:00:00 grep --color=auto [01;31m[Kproc_hier[m[K\|[01;31m[Kiam[m[K
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier[00m$ [K]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier[00m$ kill -KILL 43890 43891
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab03/Task2/proc_hier[00m$ exc[Kit
+exit
+
+Script done on 2020-09-15 15:14:31-07:00 [COMMAND_EXIT_CODE="0"]
