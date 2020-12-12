@@ -1,0 +1,9 @@
+Notes 362
+
+OPEN file to standard input and output
+putc getc
+read character till end of characters
+
+get index of character in input stream
+
+if its there replace it.

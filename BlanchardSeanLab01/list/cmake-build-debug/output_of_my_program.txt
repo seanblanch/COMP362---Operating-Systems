@@ -1,0 +1,36 @@
+/**
+* Name: Sean Blanchard
+* Lab/task: Lab 01
+* Date: 09/02/2020
+**/
+
+DATA ITEM 1: 1
+
+DATA ITEM 2: 2
+
+DATA ITEM 3: 3
+
+DATA ITEM 4: 4
+
+DATA ITEM 5: 5
+
+DATA ITEM 1: ABC
+
+DATA ITEM 2: DEF
+
+DATA ITEM 3: GHI
+
+DATA ITEM 4: JKL
+
+DATA ITEM 5: MNO
+
+DATA ITEM 1: 1A
+
+DATA ITEM 2: 2B
+
+DATA ITEM 3: 3C
+
+DATA ITEM 4: 4D
+
+DATA ITEM 5: 5E
+

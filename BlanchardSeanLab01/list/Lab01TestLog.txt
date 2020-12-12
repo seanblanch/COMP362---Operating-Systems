@@ -1,0 +1,58 @@
+/**
+* Name: Sean Blanchard
+* Lab/task: Lab 01
+* Date: 09/02/2020
+**/
+
+seanblanchard@pop-os:~$ cd Desktop
+seanblanchard@pop-os:~/Desktop$ cd comp362
+seanblanchard@pop-os:~/Desktop/comp362$ cd BlanchardSeanLab01
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab01$ cd list
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab01/list$ cd cmake-build-debug
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab01/list/cmake-build-debug$ ./list
+1
+2
+3
+4
+5
+DATA ITEM 1: 1
+
+DATA ITEM 2: 2
+
+DATA ITEM 3: 3
+
+DATA ITEM 4: 4
+
+DATA ITEM 5: 5
+
+ABC
+DEF
+GHI
+JKL
+MNO
+DATA ITEM 1: ABC
+
+DATA ITEM 2: DEF
+
+DATA ITEM 3: GHI
+
+DATA ITEM 4: JKL
+
+DATA ITEM 5: MNO
+
+1A
+2B
+3C
+4D
+5E
+DATA ITEM 1: 1A
+
+DATA ITEM 2: 2B
+
+DATA ITEM 3: 3C
+
+DATA ITEM 4: 4D
+
+DATA ITEM 5: 5E
+
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab01/list/cmake-build-debug$ 
