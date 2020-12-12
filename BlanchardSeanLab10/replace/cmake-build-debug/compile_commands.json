@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/replaceList.dir/src/lruList.c.o   -c /home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/src/lruList.c",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/src/lruList.c"
+},
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/replaceList.dir/src/optArray.c.o   -c /home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/src/optArray.c",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/src/optArray.c"
+},
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/replaceList.dir/src/replace.c.o   -c /home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/src/replace.c",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/src/replace.c"
+}
+]

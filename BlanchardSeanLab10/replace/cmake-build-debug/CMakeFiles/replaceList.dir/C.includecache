@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/inc/optArray.h
+replace.h
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/inc/replace.h
+
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/inc/replace.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+time.h
+-
+
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/src/optArray.c
+../inc/optArray.h
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/inc/optArray.h
+

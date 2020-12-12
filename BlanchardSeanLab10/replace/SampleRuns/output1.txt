@@ -1,0 +1,20 @@
+Script started on 2020-11-04 13:25:05-08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[00m$ cmnak[K[K[K[K[Kcmake ..
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[00m$ make
+[100%] Built target replaceList
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[00m$ cd bin
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug/bin[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug/bin[00m$ ./cd bin[2Pmakecmake .../replaceList replace 4 20 8
+
+USING MEMORY WITH 0 FRAMES
+REFERENCE STRING: 15 13 4 16 
+
+TESTING LRU
+15 ->	15
+Segmentation fault (core dumped)
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug/bin[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug/bin[00m$ exit
+exit
+
+Script done on 2020-11-04 13:25:25-08:00 [COMMAND_EXIT_CODE="139"]

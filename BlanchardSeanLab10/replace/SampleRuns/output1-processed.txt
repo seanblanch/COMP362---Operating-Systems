@@ -1,0 +1,20 @@
+Script started on 2020-11-04 13:25:05-08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug$ cmake ..
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug$ make
+[100%] Built target replaceList
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug$ cd bin
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug/bin$ ./replaceList replace 4 20 8
+
+USING MEMORY WITH 0 FRAMES
+REFERENCE STRING: 15 13 4 16
+
+TESTING LRU
+15 ->	15
+Segmentation fault (core dumped)
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug/bin$ exit
+exit
+
+Script done on 2020-11-04 13:25:25-08:00 [COMMAND_EXIT_CODE="139"]

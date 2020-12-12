@@ -1,0 +1,28 @@
+Script started on 2020-11-04 13:25:31-08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[00m$ exit./replaceList replace 4 20 8[C[C[C[C[Ccd bin[K[2Pmakecmake ..
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/seanblanchard/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[00m$ cmake ..[C[C[C[C[C[4Pexit./replaceList replace 4 20 8[C[C[C[C[Ccd bin[K[2Pmake
+[100%] Built target replaceList
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[00m$ makecmake ..[C[C[C[C[C[4Pexit./replaceList replace 4 20 8[K[K[K[K[K[K1 2 4
+bash: ./replaceList: No such file or directory
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug[00m$ cd bin
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug/bin[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug/bin[00m$ cd bin./replaceList replace 1 2 4
+
+USING MEMORY WITH 0 FRAMES
+REFERENCE STRING: 1 
+
+TESTING LRU
+1 ->	1
+
+Number of page faults using LRU: 2
+
+TESTING OPT
+1 ->
+double free or corruption (out)
+Aborted (core dumped)
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug/bin[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab10/replace/cmake-build-debug/bin[00m$ exit
+exit
+
+Script done on 2020-11-04 13:25:56-08:00 [COMMAND_EXIT_CODE="134"]
