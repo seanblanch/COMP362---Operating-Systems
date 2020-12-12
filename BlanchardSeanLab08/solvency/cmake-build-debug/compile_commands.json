@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/solvency.dir/src/arrays.c.o   -c /home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/src/arrays.c",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/src/arrays.c"
+},
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/solvency.dir/src/bank.c.o   -c /home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/src/bank.c",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/src/bank.c"
+},
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/solvency.dir/src/solvency.c.o   -c /home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/src/solvency.c",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/src/solvency.c"
+}
+]

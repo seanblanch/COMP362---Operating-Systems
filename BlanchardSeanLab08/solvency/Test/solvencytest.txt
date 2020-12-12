@@ -1,0 +1,53 @@
+Script started on 2020-10-21 17:24:53-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug[00m$ cmake ..
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug[00m$ make
+[35m[1mScanning dependencies of target solvency[0m
+[ 25%] [32mBuilding C object CMakeFiles/solvency.dir/src/bank.c.o[0m
+[ 50%] [32m[1mLinking C executable bin/solvency[0m
+[100%] Built target solvency
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug[00m$ makecmake ..[C[C[C[C[C[C./solvency[C[C[C[C[C[C[C./solvency../in.txt[C[C[C[C[C[C[6Pcd bin[2Pmakecmake ..d cmake-build-debug/[C[C[C[C[C[C[C[C[C'/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency' [C[C[C[C[C[Cmake[Kcmake ..d '/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug' [Amake ..[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pmakecd '/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency' [C[C[C[C[C[C[C[C[Ccmake-build-debug/[K[C[C[C[C[C[C[C[13Pmake ..[C[C[C[C[C[C[4Pmakecd bin../../in.txt[1Psolvency[C[C[C[C[C[C[C[1P/solvency[C[C[C[C[C[C[2Pcmake ..[C[C[C[C[C[C[4Pmake[K./bin/.[Ksolvency in.[K[K[K../in.txt
+Teller: How may I help you? > st
+REQUEST: ST
+  Available = [  1500.00 1000.00  500.00]
+ Allocation = [     0.00    0.00    0.00] [     0.00    0.00    0.00] [     0.00    0.00    0.00] [     0.00    0.00    0.00] [     0.00    0.00    0.00]
+        Max = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+       Need = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+Teller: How may I help you? > bo 0 10 200 300
+REQUEST: BO
+CLIENT 0:  [    10.00  200.00  300.00]
+*DENIED*
+Teller: How may I help you? > re 0 0 20 150
+REQUEST: RE
+CLIENT 0:  [     0.00   20.00  150.00]
+Customer cannot return funds that are not allocated currently.
+
+*DENIED*
+Teller: How may I help you? > st
+REQUEST: ST
+  Available = [  1500.00 1000.00  500.00]
+ Allocation = [     0.00    0.00    0.00] [     0.00    0.00    0.00] [     0.00    0.00    0.00] [     0.00    0.00    0.00] [     0.00    0.00    0.00]
+        Max = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+       Need = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+Teller: How may I help you? > bo 2 0 0 200           1 500 400 200
+REQUEST: BO
+CLIENT 1:  [   500.00  400.00  200.00]
+*DENIED*
+Teller: How may I help you? > bo 2 00    0 200
+REQUEST: BO
+CLIENT 2:  [     0.00    0.00  200.00]
+The customers that could be satisfied (in order): 0 1 2 3 4 
+*APPROVED*
+Teller: How may I help you? > quit
+REQUEST: QUIT
+  Available = [  1500.00 1000.00  300.00]
+ Allocation = [     0.00    0.00    0.00] [     0.00    0.00    0.00] [     0.00    0.00  200.00] [     0.00    0.00    0.00] [     0.00    0.00    0.00]
+        Max = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+       Need = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00    0.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+]0;seanblanchard@pop-os: ~/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug[01;32mseanblanchard@pop-os[00m:[01;34m~/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug[00m$ exit
+exit
+
+Script done on 2020-10-21 17:26:58-07:00 [COMMAND_EXIT_CODE="1"]

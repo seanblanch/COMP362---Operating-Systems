@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/src/arrays.h
+stdio.h
+-
+stdbool.h
+-
+
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/src/bank.c
+bank.h
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/src/bank.h
+
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/src/bank.h
+unistd.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+ctype.h
+-
+pthread.h
+-
+arrays.h
+/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/src/arrays.h
+

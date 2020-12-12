@@ -1,0 +1,53 @@
+Script started on 2020-10-21 17:24:53-07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug$ cmake ..
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug$ make
+Scanning dependencies of target solvency
+[ 25%] Building C object CMakeFiles/solvency.dir/src/bank.c.o
+[ 50%] Linking C executable bin/solvency
+[100%] Built target solvency
+cda'/home/seanblanchard/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-dmake'..ake ..
+./bin/solvencyb../in.txtDesktop/comp362/BlanchardSeanLab08/solvency'
+Teller: How may I help you? > st
+REQUEST: ST
+  Available = [  1500.00 1000.00  500.00]
+ Allocation = [     0.00    0.00    0.00] [	0.00	0.00	0.00] [     0.00    0.00    0.00] [	0.00	0.00	0.00] [     0.00    0.00    0.00]
+	Max = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+       Need = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+Teller: How may I help you? > bo 0 10 200 300
+REQUEST: BO
+CLIENT 0:  [	10.00  200.00  300.00]
+*DENIED*
+Teller: How may I help you? > re 0 0 20 150
+REQUEST: RE
+CLIENT 0:  [	 0.00	20.00  150.00]
+Customer cannot return funds that are not allocated currently.
+
+*DENIED*
+Teller: How may I help you? > st
+REQUEST: ST
+  Available = [  1500.00 1000.00  500.00]
+ Allocation = [     0.00    0.00    0.00] [	0.00	0.00	0.00] [     0.00    0.00    0.00] [	0.00	0.00	0.00] [     0.00    0.00    0.00]
+	Max = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+       Need = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+Teller: How may I help you? > bo 1 500 400 200
+REQUEST: BO
+CLIENT 1:  [   500.00  400.00  200.00]
+*DENIED*
+Teller: How may I help you? > bo 2 000 200
+REQUEST: BO
+CLIENT 2:  [	 0.00	 0.00  200.00]
+The customers that could be satisfied (in order): 0 1 2 3 4
+*APPROVED*
+Teller: How may I help you? > quit
+REQUEST: QUIT
+  Available = [  1500.00 1000.00  300.00]
+ Allocation = [     0.00    0.00    0.00] [	0.00	0.00	0.00] [     0.00    0.00  200.00] [	0.00	0.00	0.00] [     0.00    0.00    0.00]
+	Max = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00  200.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+       Need = [   700.00  500.00  300.00] [   300.00  200.00  200.00] [   900.00    0.00    0.00] [   200.00  200.00  200.00] [   400.00  300.00  300.00]
+seanblanchard@pop-os:~/Desktop/comp362/BlanchardSeanLab08/solvency/cmake-build-debug$ exit
+exit
+
+Script done on 2020-10-21 17:26:58-07:00 [COMMAND_EXIT_CODE="1"]
