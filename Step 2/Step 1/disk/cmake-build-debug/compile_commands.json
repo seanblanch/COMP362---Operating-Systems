@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/cmake-build-debug",
+  "command": "/usr/bin/cc -D__DEBUG_DISK -D__DEBUG_TIMER   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   -std=gnu11 -o CMakeFiles/disk_timer.dir/disk.c.o   -c \"/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/disk.c\"",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/disk.c"
+},
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/cmake-build-debug",
+  "command": "/usr/bin/cc -D__DEBUG_DISK -D__DEBUG_TIMER   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   -std=gnu11 -o CMakeFiles/disk_timer.dir/test_disk.c.o   -c \"/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/test_disk.c\"",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/test_disk.c"
+},
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/cmake-build-debug",
+  "command": "/usr/bin/cc -D__DEBUG_DISK   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   -std=gnu11 -o CMakeFiles/disk.dir/disk.c.o   -c \"/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/disk.c\"",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/disk.c"
+},
+{
+  "directory": "/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/cmake-build-debug",
+  "command": "/usr/bin/cc -D__DEBUG_DISK   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   -std=gnu11 -o CMakeFiles/disk.dir/test_disk.c.o   -c \"/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/test_disk.c\"",
+  "file": "/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 2/Step 1/disk/test_disk.c"
+}
+]

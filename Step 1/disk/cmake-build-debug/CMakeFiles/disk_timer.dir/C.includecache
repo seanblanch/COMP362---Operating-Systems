@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 1/disk/disk.h
+stdio.h
+-
+unistd.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+stdbool.h
+-
+signal.h
+-
+time.h
+-
+sys/time.h
+-
+linux/kernel.h
+-
+linux/slab.h
+-
+linux/module.h
+-
+linux/init.h
+-
+linux/version.h
+-
+linux/errno.h
+-
+linux/fs.h
+-
+asm/uaccess.h
+-
+
+/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 1/disk/test_disk.c
+disk.h
+/home/seanblanchard/Desktop/comp362/BlanchardSeanProject02/Step 1/disk/disk.h
+
